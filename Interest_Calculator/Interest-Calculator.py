@@ -1,7 +1,7 @@
 #Zamanlayıcı eklentisini programa dahil etmek için kullandığım "Time" kütüphanesi.
 import time
 
-#Ekrana programın adını yazıyoruz ve kullanıcıyı karşılıyoruz...
+#Ekrana programın adını yazıyoruz ve kullanıcıyı karşılıyoruz.
 print("\n---------------------------------------------------")
 print(".*.*.*.*FAIZ HESAPLAMA ARACINA HOSGELDINiZ*.*.*.*.")
 print("---------------------------------------------------\n")
