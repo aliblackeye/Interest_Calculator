@@ -1,5 +1,5 @@
 from datetime import datetime
-import locale #Kütüphaneleri import ediyoruz.
+import locale #Kütüphaneleri import ediyoruz..
 
 #Satın aldıktan sonra tarihin türkçe olması için kullandığım kod.
 locale.setlocale(locale.LC_ALL, '')
